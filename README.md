@@ -11,3 +11,9 @@ Asynchronous File Serving: Leveraged the fs (File System) module to read and ser
 Custom 404 Handling: Includes a dedicated error handler that catches invalid URL requests and serves a custom 404 error page with the correct HTTP status code.
 
 Modern UI: Every page features a consistent navigation bar and responsive CSS styling for a professional user experience.
+
+### **Screenshots**
+![Home Page](./screenshots/home.png)
+![About Page](./screenshots/about.png)
+![Contact Page](./screenshots/contact.png)
+![Error Page](./screenshots/404_error.png)
