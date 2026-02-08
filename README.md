@@ -13,7 +13,7 @@ Custom 404 Handling: Includes a dedicated error handler that catches invalid URL
 Modern UI: Every page features a consistent navigation bar and responsive CSS styling for a professional user experience.
 
 ### **Screenshots**
-![Home Page](./screenshots/home.png)
-![About Page](./screenshots/about.png)
-![Contact Page](./screenshots/contact.png)
-![Error Page](./screenshots/404_error.png)
+![Home Page](./home.png)
+![About Page](./about.png)
+![Contact Page](./contact.png)
+![Error Page](./404_error.png)
